@@ -1,0 +1,28 @@
+---
+title: A quick nod to the GP32
+author: stuckie
+layout: post
+permalink: /a-quick-nod-to-the-gp32/
+categories:
+  - The Quest
+---
+The GP32 is always going to hold a special place in my collection for being the machine that introduced me to homebrew in the first place.
+
+I got mine just as the machine was opened up properly to be able to do it, and a flurry of devs jumped on it to produce all sorts of things. It was great as there was always something new appearing every other day, and it certainly wasn&#8217;t any slouch of a machine at the time either! But it was the fact that this was an actual hand held console that you could get a compiler and SDK for, and could make your own stuff on it that attracted me to it, and got me into this whole thing to begin with. So, my beloved GP32, this is for you!
+
+I was asked recently to help port something over to the humble GP32, and nostalgia being the rose-tinted maiden that it is, I thought &#8220;oh it&#8217;ll just be a quick recompile after I dust off my toolchain again!&#8221;  This wasn&#8217;t quite the case, especially as said toolchain hadn&#8217;t been touched since 2004 and didn&#8217;t quite work any more.  
+So, I thought I&#8217;d go use the excellent devkitARM which supports a few of the Nintendo hand held consoles as well. However, this also hit problems as most of the libraries I could find weren&#8217;t EABI version as devkitARM was, and as I didn&#8217;t have a great deal of free time to go poking at it too much, I sadly had to drop it and try another route. I&#8217;ll probably come back to doing it &#8220;properly&#8221; with devkitARM as I much prefer their setup, but for now, method two will do.  
+Method two involved building my own arm-elf tool chain, using the rather succinct instructions over on cobbleware &#8211; <http://www.cobbleware.com/gp32/gp32toolchain.html> &#8211; which got me up and running pretty quickly. I did substitute GCC 3.3.6 for 3.3.2, however, and had to pull down 3.4 on my Debian box in order to compile it. I did get it compiling both on my 64bit desktop, and a 32bit laptop without issue, though, so it&#8217;s certainly still feasible these days to build tool chains for older platforms as needed. I did attempt to substitute higher versions of binutils, GCC and newlib, but they died during compilation and again, lack of time to do it properly meant I just wanted something that worked.  
+Once I had the compiler though, my problems weren&#8217;t over yet.  
+It seems that everyone built their own tool chain setup back on the GP32 and all manner of libraries and strange things floated about. In general though, people either wrote their own low level SDK, used the excellent Mr Mirko&#8217;s SDK, or the wonderful Chui&#8217;s SDL port. The devkitARM tool chain comes with Mr Mirko&#8217;s SDK so if I only needed that, I&#8217;d have kept with it. I needed SDL support, however&#8230; and I had two options open to me; cobbleware&#8217;s version and SDL4GP32 &#8211; <http://sdl-gp32.sourceforge.net/> . As said, everyone seemed to do their own SDK setup, and both of these sets of libraries overload a bit more than they probably should. The cobbleware version overloads stdio which caused some interesting errors in stderr and stdout not really being available, and though I got these fixed and the project compiling, I couldn&#8217;t get it to work no matter how much I prodded it. The SDL4GP32 version required a bit more poking, but it did manage to work, and with a few hours remembering that the GP32 uses SMC card, which has an 8.3 filename restriction, I managed to get the project up and running with minimal changes at between 20-30fps out of 60. Not bad for a few hours work, I think!
+
+Of course, the GP32 being the old and odd beastie that it is, most games are just not written for it these days. It&#8217;s not a huge fan of large textures, and passing textures back and forth across the memory bus probably isn&#8217;t going to help it much so to get that framerate up further there&#8217;d probably need to be a bit more re-organisation of the sprites and assets than I was really wanting to do. Not out of laziness, but more out of not fiddling with someone else&#8217;s project! I just wanted to show them how to get it up and running on the GP32 as quick as possible, and let them sort out the issues in a way that works for them.
+
+Anyway, this means that the first part of The GP32 Quest has been done &#8211; the tool chain.  
+This currently lives here, compiled for i686 Linux on Debian Lenny &#8211; [http://stuckiegamez.co.uk/apps/toolchains/gp32toolchain.tar.bz2][1] &#8211; and contains both cobbleware&#8217;s SDK and the SDL4GP32 SDK. It also includes the very useful utilities of gplink, GpRun and b2fxec. Hopefully, I&#8217;ll find some more time to get the devkitARM variant running, but this will do for now.. and seeing as it was a little bit of fiddling to get up and running, if someone else is after a quick GP32 tool chain, feel free to use mine!
+
+I&#8217;ll also do a write up of what I did for the toolchain to work &#8211; from compiling GCC et al, down to the library setup &#8211; mostly to keep it all in the one place in case cobbleware&#8217;s site disappears suddenly, and all that information gets lost forever like so many GP32 links I chased ended up. And that would be sad.
+
+Now, if only I was brave enough to attempt a screen replacement on my little &#8216;ol Non-Lit GP32&#8230;
+
+ [1]: http://stuckiegamez.co.uk/apps/toolchains/gp32toolchain.tar.bz2 "http://stuckiegamez.co.uk/apps/toolchains/gp32toolchain.tar.bz2"

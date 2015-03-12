@@ -2,6 +2,7 @@
 title: Torn Pages
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 Torn Pages was started in 2006.  
 It was conceived as an engine specific for adventure and role-playing games, ranging from Interactive Fiction to  First-Person RPGs ala Dungeon Master, via the use of a verb system to be played on hand held consoles specifically.

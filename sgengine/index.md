@@ -2,6 +2,7 @@
 title: SGEngine
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 SGEngine was started in 2009, and never completed.
 

@@ -2,6 +2,7 @@
 title: Tiny Critters
 author: stuckie
 layout: page
+categories: ['Unfinished', 'Projects']
 ---
 I have recently began Tiny Critters again, specifically for Android and iOS devices.
 

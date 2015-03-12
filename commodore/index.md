@@ -2,6 +2,7 @@
 title: Commodore
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 Hardware:
 

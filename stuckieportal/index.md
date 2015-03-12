@@ -2,6 +2,7 @@
 title: stuckiePORTAL
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 stuckiePORTAL was a Portal front-end for SMF.  
 It added page support, block support, and tied in to SMF&#8217;s member system for permissions and things, borrowing heavily from how YaPP was setup.

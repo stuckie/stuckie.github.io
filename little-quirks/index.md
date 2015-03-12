@@ -2,6 +2,7 @@
 title: Little Quirks
 author: stuckie
 layout: page
+categories: ['LudumDare', 'Projects']
 ---
 <div style="text-align: center;">
   <h1>

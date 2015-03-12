@@ -2,6 +2,7 @@
 title: Dingoo Digital
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 A320 Dingoo
 

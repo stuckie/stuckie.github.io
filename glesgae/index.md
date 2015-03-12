@@ -2,6 +2,7 @@
 title: GLESGAE
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 I shall be storing the guides and articles I write up for GLESGAE here as well as on Pandora Wiki: http://pandorawiki.org/GLESGAE
 

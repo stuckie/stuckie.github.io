@@ -2,6 +2,7 @@
 title: Labyrinth
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 <div style="text-align:center; font-size:24px; font-weight:bold; text-decoration:underline;">
   Sonic Death Monkey<br /> <img src="/gamez/labyrinth/SDM.png" alt="Sonic Death Monkey" />

@@ -2,6 +2,7 @@
 title: Black Squirrel
 author: stuckie
 layout: page
+categories: ['Unfinished', 'Projects']
 ---
 # Black Squirrel
 

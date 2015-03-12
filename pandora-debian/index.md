@@ -2,6 +2,7 @@
 title: Pandora Debian
 author: stuckie
 layout: page
+categories: ['Pandora', Guide']
 ---
 Pandora Debian is a Debian based distribution for the Pandora hand held computer.
 

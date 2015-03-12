@@ -2,6 +2,7 @@
 title: Nintendo
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 Hardware
 

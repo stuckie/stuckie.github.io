@@ -2,6 +2,7 @@
 title: PowerOUT
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 # PowerOUT
 

@@ -2,6 +2,7 @@
 title: derelict_
 author: stuckie
 layout: page
+categories: ['LudumDare', 'Projects']
 ---
 # derelict_
 

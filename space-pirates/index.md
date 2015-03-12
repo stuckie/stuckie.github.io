@@ -2,6 +2,7 @@
 title: Space Pirates
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 # Space Pirates
 

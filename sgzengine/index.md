@@ -2,6 +2,7 @@
 title: SGZEngine
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 SGZEngine was started in 2005 and was in use through to 2010.
 

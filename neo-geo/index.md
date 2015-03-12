@@ -2,6 +2,7 @@
 title: Neo Geo
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 Hardware:
 

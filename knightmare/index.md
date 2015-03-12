@@ -2,6 +2,7 @@
 title: Knightmare
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 # Knightmare
 

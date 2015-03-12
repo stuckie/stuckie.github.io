@@ -2,6 +2,7 @@
 title: GEvOlve
 author: stuckie
 layout: page
+categories: ['LudumDare', 'Projects']
 ---
 # GEvOlve
 

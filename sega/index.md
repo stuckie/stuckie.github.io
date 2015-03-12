@@ -2,6 +2,7 @@
 title: SEGA
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 Hardware:
 

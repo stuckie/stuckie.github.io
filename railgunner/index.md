@@ -2,6 +2,7 @@
 title: Railgunner
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 # RailGunner
 

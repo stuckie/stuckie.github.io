@@ -2,6 +2,7 @@
 title: Atari
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 I&#8217;ve a small collection of Atari stuff.
 

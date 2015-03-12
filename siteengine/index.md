@@ -2,6 +2,7 @@
 title: siteENGiNE
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 ﻿﻿siteENGiNE was the successor to stuckiePORTAL.  
 It was meant to be run standalone as well as interface with forum systems easily to share user information.  

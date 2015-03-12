@@ -2,6 +2,7 @@
 title: Tiny Jewels
 author: stuckie
 layout: page
+categories: ['Atomicom', 'Releases']
 ---
 # Tiny Jewels
 

@@ -2,6 +2,7 @@
 title: Moons of Subterrane
 author: stuckie
 layout: page
+categories: ['LudumDare', 'Projects']
 ---
 <div style="text-align: center;">
   <h1>

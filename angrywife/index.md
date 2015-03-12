@@ -2,6 +2,7 @@
 title: Angry Wife
 author: stuckie
 layout: page
+categories: ['Atomicom', 'Releases']
 ---
 # Angry Wife
 

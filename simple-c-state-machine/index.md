@@ -2,6 +2,7 @@
 title: Simple C State Machine
 author: stuckie
 layout: page
+categories: ['Programming', 'Guide']
 ---
 While cleaning up some of my hard drives, I found this random little snippet that I wrote as an example for someone on IRC a few months ago.
 

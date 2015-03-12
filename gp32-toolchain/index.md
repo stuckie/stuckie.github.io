@@ -2,6 +2,7 @@
 title: GP32 Toolchain
 author: stuckie
 layout: page
+categories: ['GP32', 'Guide']
 ---
 Getting the GP32 Toolchain up and running was fairly straight forward, but had a few oddities and set backs.
 

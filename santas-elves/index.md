@@ -2,6 +2,7 @@
 title: 'Santa&#8217;s Elves'
 author: stuckie
 layout: page
+categories: ['Coursework', 'Projects']
 ---
 # Santa&#8217;s Elves
 

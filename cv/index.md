@@ -78,7 +78,20 @@ layout: page
 </h1>
 
 <p dir="ltr">
-  July 2013 &#8211; Germies! (HTML5) &#8211; Programmer<br /> June 2012 &#8211; Bang Bang Racing (PC/X360/PS3) &#8211; Programmer<br /> May 2012 &#8211; Angry Wife (Android) &#8211; Uncredited<br /> May 2012 &#8211; Cats and Bombs (Android) &#8211; Uncredited<br /> May 2012 &#8211; Hawthorne Park (Android/Tegra) &#8211; Lead Engine Programmer<br /> May 2012 &#8211; Tiny Jewels (Android) &#8211; Uncredited<br /> December 2011 &#8211; Switch+ (iOS/Android) &#8211; Lead Engine Programmer<br /> December 2011 &#8211; The Best Christmas Game Ever (iOS/Android) &#8211; Lead Engine Programmer<br /> November 2011 &#8211; Tiny Gems (iOS) &#8211; Uncredited<br /> July 2011 &#8211; Switch (Android) &#8211; Lead Engine Programmer<br /> May 2011 &#8211; Bang Bang Racing THD (Android/Tegra) &#8211; Lead Engine Programmer<br /> Unreleased Prototype &#8211; Platform Game (PC Prototype/Wii) &#8211; Programmer<br /> Unreleased Prototype &#8211; Bang Bang Racing (Wii) &#8211; Programmer
+  July 2014 &#8211; Grim (PC/Mac/Linux) &#8211; Programmer, Audio, Additional Design<br />
+  July 2013 &#8211; Germies! (HTML5) &#8211; Programmer, Audio, Design<br />
+  June 2012 &#8211; Bang Bang Racing (PC/X360/PS3) &#8211; Programmer<br />
+  May 2012 &#8211; Angry Wife (Android) &#8211; Uncredited<br />
+  May 2012 &#8211; Cats and Bombs (Android) &#8211; Uncredited<br />
+  May 2012 &#8211; Hawthorne Park (Android/Tegra) &#8211; Lead Engine Programmer<br />
+  May 2012 &#8211; Tiny Jewels (Android) &#8211; Uncredited<br />
+  December 2011 &#8211; Switch+ (iOS/Android) &#8211; Lead Engine Programmer<br />
+  December 2011 &#8211; The Best Christmas Game Ever (iOS/Android) &#8211; Lead Engine Programmer<br />
+  November 2011 &#8211; Tiny Gems (iOS) &#8211; Uncredited<br />
+  July 2011 &#8211; Switch (Android) &#8211; Lead Engine Programmer<br />
+  May 2011 &#8211; Bang Bang Racing THD (Android/Tegra) &#8211; Lead Engine Programmer<br />
+  Unreleased Prototype &#8211; Platform Game (PC Prototype/Wii) &#8211; Programmer<br />
+  Unreleased Prototype &#8211; Bang Bang Racing (Wii) &#8211; Programmer
 </p>
 
 <h1 dir="ltr">

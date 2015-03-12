@@ -2,6 +2,7 @@
 title: Sinclair
 author: stuckie
 layout: page
+categories: ['Collection']
 ---
 Hardware:
 

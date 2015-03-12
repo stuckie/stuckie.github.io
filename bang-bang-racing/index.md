@@ -2,6 +2,7 @@
 title: Bang Bang Racing
 author: stuckie
 layout: page
+categories: ['Playbox', 'Releases']
 ---
 # Bang Bang Racing
 

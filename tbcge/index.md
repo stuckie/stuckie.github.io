@@ -2,6 +2,7 @@
 title: The Best Christmas Game Ever
 author: stuckie
 layout: page
+categories: ['Atomicom', 'Releases']
 ---
 # The Best Christmas Game Ever
 

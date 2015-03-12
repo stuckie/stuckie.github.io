@@ -2,6 +2,7 @@
 title: gameSPACE
 author: stuckie
 layout: page
+categories: ['Engines', 'Projects']
 ---
 gameSPACE was meant to be built on top of siteENGiNE ( previously stuckiePORTAL and YaPP before that ) to enable grid-based games to be played online through a browser.
 

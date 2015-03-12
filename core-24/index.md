@@ -2,6 +2,7 @@
 title: Core 24
 author: stuckie
 layout: page
+categories: ['Unfinished', 'Projects']
 ---
 Core 24 is the first game being created as part of The Quest.
 

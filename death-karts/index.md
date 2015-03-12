@@ -2,6 +2,7 @@
 title: Death Karts
 author: stuckie
 layout: page
+categories: ['Projects']
 ---
 # Death Karts
 

@@ -3,6 +3,7 @@ title: Germies!
 author: stuckie
 layout: page
 categories: ['ArcadeBadgers', 'Releases']
+date: 2013-07
 ---
 [<img class="aligncenter" alt="Germies!" src="http://i2.wp.com/www.arcadebadgers.co.uk/wp-content/uploads/2013/07/germies-letters.png?resize=207%2C66" data-recalc-dims="1" />][1]
 

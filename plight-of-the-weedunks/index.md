@@ -3,6 +3,7 @@ title: Plight of The Weedunks
 author: stuckie
 layout: page
 categories: ['Dare', 'Releases']
+date: 2008-08
 ---
 I took part in Dare To Be Digital 2008 as a member of Team Caffeine. We produced the game Plight of The Weedunks in just ten weeks.
 

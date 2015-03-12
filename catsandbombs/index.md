@@ -3,6 +3,7 @@ title: Cats and Bombs
 author: stuckie
 layout: page
 categories: ['Atomicom', 'Releases']
+date: 2012-05
 ---
 # Cats and Bombs
 

@@ -3,6 +3,7 @@ title: Bang Bang Racing
 author: stuckie
 layout: page
 categories: ['Playbox', 'Releases']
+date: 2012-06
 ---
 # Bang Bang Racing
 

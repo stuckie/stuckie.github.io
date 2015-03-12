@@ -3,6 +3,7 @@ title: Hawthorne Park THD
 author: stuckie
 layout: page
 categories: ['Atomicom', 'Releases']
+date: 2012-05
 ---
 # Hawthorne Park THD
 

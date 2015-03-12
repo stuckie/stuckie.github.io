@@ -2,7 +2,8 @@
 title: Switch Plus
 author: stuckie
 layout: page
-categories: ['Playbox', 'Atomicom', 'Releases']
+categories: ['Atomicom', 'Releases']
+date: 2011-12
 ---
 <span style="font-size: 20px; font-weight: bold;">Playbox/Atomicom &#8211; Switch+</span>
 

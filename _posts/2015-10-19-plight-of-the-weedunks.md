@@ -6,7 +6,7 @@ comments: true
 ---
 
 So I've just stuck up the (almost) entire source of Plight of the Weedunks to Github: [http://github.com/stuckie/plightoftheweedunks](http://github.com/stuckie/plightoftheweedunks).
-It's missing the amBX code, but you don't need that anyway... and the DLLs we had for it has long since expired.
+It's missing the amBX code, but you don't need that anyway... and the DLLs we had for it have long since expired.
 
 Why put it up now?
 

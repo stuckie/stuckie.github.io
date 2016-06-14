@@ -17,8 +17,8 @@ But that's just life.
 
 Badger wise, we've actually been relatively active recently.  
 While the original idea of quick prototypes, further develop then polish one didn't quite come to plan, we have released two quick prototypes in the past couple of months.   
-Sploosh! - http://arcadebadgers.itch.io/sploosh  
-Snake-A-Roid http://arcadebadgers.itch.io/snake-a-roid or http://gamejolt.com/games/snake-a-roid/153761 if you want to show off on the leaderboards
+Sploosh! - <http://arcadebadgers.itch.io/sploosh>  
+Snake-A-Roid <http://arcadebadgers.itch.io/snake-a-roid> or <http://gamejolt.com/games/snake-a-roid/153761> if you want to show off on the leaderboards
 
 Sploosh! was done for the Low Rez Jam, and runs at 64x64 upscaled to 512x512, and is a little homage to Scuba Dive on the Spectrum.
 I quite enjoyed it, and though I managed to make a mess of the controls ( it wasn't obvious where you were swimming ) I'd like to return to it - or the idea of it - to develop further.  

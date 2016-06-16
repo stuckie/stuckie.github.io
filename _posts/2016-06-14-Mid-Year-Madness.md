@@ -10,12 +10,9 @@ So, it's the middle of 2016 already.
 The original plan was to start pushing out quick games in January, focus on something more substantial in February, start a bigger project in March to carry through to May, then start over again with some prototypes, pick some to develop, etc...  
 That didn't work.
 
-For a variety of reasons, but mainly just "life" being a pest and getting in the way.  
-Actually, it's reached a bit of a head at the moment, as we're having to sell lots of our retro stuff we've collected over the years to try make up a deficit in our finances. It happens.
-
 But that's just life.
 
-Badger wise, we've actually been relatively active recently.  
+Funnily enough, we've actually been relatively active recently.  
 While the original idea of quick prototypes, further develop then polish one didn't quite come to plan, we have released two quick prototypes in the past couple of months.   
 Sploosh! - <http://arcadebadgers.itch.io/sploosh>  
 Snake-A-Roid <http://arcadebadgers.itch.io/snake-a-roid> or <http://gamejolt.com/games/snake-a-roid/153761> if you want to show off on the leaderboards

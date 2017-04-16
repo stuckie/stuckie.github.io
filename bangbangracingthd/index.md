@@ -61,7 +61,7 @@ Or on the Nvidia TegraZone.
 Visit Playbox&#8217;s site for more information: <http://www.playboxgames.com>
 
 <p style="text-align: center;">
-  <a href="http://stuckiegamez.co.uk/wp-content/uploads/2011/05/bbr1.jpg"><img title="Bang Bang Racing Screenshot 1" src="http://stuckiegamez.co.uk/wp-content/uploads/2011/05/bbr1-300x187.jpg" alt="" width="300" height="187" /></a><a href="http://stuckiegamez.co.uk/wp-content/uploads/2011/05/bbr2.jpg"><img title="Bang Bang Racing Screenshot 2" src="http://stuckiegamez.co.uk/wp-content/uploads/2011/05/bbr2-300x187.jpg" alt="" width="300" height="187" /></a>
+  <a href="/bang-bang-racing/bbr1.jpg"><img title="Bang Bang Racing Screenshot 1" src="/bang-bang-racing/bbr1.jpg" alt="" width="300" height="187" /></a><a href="/bang-bang-racing/bbr2.jpg"><img title="Bang Bang Racing Screenshot 2" src="/bang-bang-racing/bbr2-300x187.jpg" alt="" width="300" height="187" /></a>
 </p>
 
 <p style="text-align: center;">

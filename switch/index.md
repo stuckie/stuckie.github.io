@@ -46,7 +46,7 @@ date: 2011-07
   </div>
   
   <div align="center">
-    <a href="/switch/switch02.png"><img title="switch02" src="switch/switch02.png" alt="" width="300" height="180" /></a><a href="/switch/switch01.png"><img title="switch01" src="/switch/switch01.png" alt="" width="300" height="180" /></a>
+    <a href="/switch/switch02.png"><img title="switch02" src="/switch/switch02.png" alt="" width="300" height="180" /></a><a href="/switch/switch01.png"><img title="switch01" src="/switch/switch01.png" alt="" width="300" height="180" /></a>
   </div>
 </div>
 

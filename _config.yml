@@ -32,3 +32,10 @@ markdown: kramdown
 gems: [jekyll-paginate]
 
 exclude: ['README.md', 'LICENSE']
+collections: 
+  releases:
+    output: true
+  oldprojects:
+    output: true
+  projects:
+    output: true

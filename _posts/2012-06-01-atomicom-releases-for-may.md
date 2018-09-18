@@ -2,13 +2,12 @@
 title: Atomicom Releases for May
 author: stuckie
 layout: post
-permalink: /atomicom-releases-for-may/
 categories:
   - Atomicom
   - Releases
 ---
-I actually missed these myself, but Atomicom released a bunch of games in May!  
-Suppose I should bring my head up for some air from the depths of coding every now and then to actually notice these things <img src="http://stuckiegamez.co.uk/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+I actually missed these myself, but Atomicom released a bunch of games in May! <br />
+Suppose I should bring my head up for some air from the depths of coding every now and then to actually notice these things ;)
 
 Anyway, we released the following, with clickable links to the Google Play store to whet your appetite for more:
 
@@ -16,7 +15,7 @@ Anyway, we released the following, with clickable links to the Google Play store
 
 Hawthorne Park Lite THD being an interesting one, in that the high price is actually there to help fund the next title, and to also allow you to give us feedback to shape our next game.
 
-I&#8217;ve also updated bits about the site, although the information for the newer games isn&#8217;t as nicely laid out as the older stuff; but it&#8217;s atleast there now.
+I've also updated bits about the site, although the information for the newer games isn't as nicely laid out as the older stuff; but it's atleast there now.
 
  [1]: https://play.google.com/store/apps/details?id=uk.co.atomicom.angrywife
  [2]: https://play.google.com/store/apps/details?id=uk.co.atomicom.angrywife_free

@@ -1,9 +1,7 @@
 <h1>Releases</h1>
 <ul>
-{% assign sorted = site.pages | sort: 'date' | reverse %}
+{% assign sorted = site.releases | sort: 'date' | reverse %}
 {% for page in sorted %}
-	{% if page.categories contains 'Releases' %}
-		<li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
+	<li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% endfor %}
 </ul>

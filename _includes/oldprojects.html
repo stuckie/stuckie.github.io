@@ -1,0 +1,7 @@
+<h1>Old Projects</h1>
+{% assign sorted = site.oldprojects | sort: 'date' | reverse %}
+<ul>
+{% for page in sorted %}
+	<li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>

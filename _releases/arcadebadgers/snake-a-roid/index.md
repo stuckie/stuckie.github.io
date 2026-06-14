@@ -1,7 +1,7 @@
 ---
 layout: page
 author: stuckie
-title: Snake-A-Roid
+title: Snake-A-Roid 2016
 categoy: ArcadeBadgers
 date: 2016-08-02 00:00:00
 ---
